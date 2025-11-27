@@ -1,0 +1,5 @@
+{
+  "name": "WEB勤務表ベータ",
+  "description": "A modern, AI-powered staff scheduling application designed to replace Excel. Features a visual roster, easy editing, and a natural language assistant to query schedules and availability.",
+  "requestFramePermissions": []
+}
